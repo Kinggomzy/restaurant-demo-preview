@@ -1,0 +1,132 @@
+# Photo credits
+
+Photographs are from Wikimedia Commons under the licences shown. Illustrated avatars and the logo are generated for this demo.
+
+- area-Main dining room: [The dining room in the country by Pierre Bonnard (1913).jpg](https://commons.wikimedia.org/wiki/File:The_dining_room_in_the_country_by_Pierre_Bonnard_(1913).jpg) — Pierre Bonnard, Public domain
+- area-Terrace: [Restaurant table at Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg](https://commons.wikimedia.org/wiki/File:Restaurant_table_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg) — Basile Morin, CC BY-SA 4.0
+- area-Bar: [Bar Counter at TWA Flight Center, 1962.jpg](https://commons.wikimedia.org/wiki/File:Bar_Counter_at_TWA_Flight_Center,_1962.jpg) — Samuel H. Gottscho and William H. Schleisner, Public domain
+- area-Private dining room: [Heiligengrabe, Kloster Stift zum Heiligengrabe, Abtei, Speiseraum -- 2017 -- 7082-8.jpg](https://commons.wikimedia.org/wiki/File:Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Speiseraum_--_2017_--_7082-8.jpg) — Dietmar Rabich, CC BY-SA 4.0
+- area-Rooftop: [Elizabeth's Restaurant, New Orleans - Outdoor tables, July 2021 - 02.jpg](https://commons.wikimedia.org/wiki/File:Elizabeth%27s_Restaurant,_New_Orleans_-_Outdoor_tables,_July_2021_-_02.jpg) — Infrogmation of New Orleans, CC BY-SA 4.0
+- area-Garden: [Cafeteria aboard MV Tacoma.jpg](https://commons.wikimedia.org/wiki/File:Cafeteria_aboard_MV_Tacoma.jpg) — DeVos Max, CC BY-SA 4.0
+- area-Window seats: [Restaurant table, Skansen, Stockholm, Sweden julesvernex2.jpg](https://commons.wikimedia.org/wiki/File:Restaurant_table,_Skansen,_Stockholm,_Sweden_julesvernex2.jpg) — Jules Verne Times Two, CC BY-SA 4.0
+- dish-Crispy Calamari: [DFC 1937 Savory stir-fried squid with basil and chili served over steamed jasmine rice.jpg](https://commons.wikimedia.org/wiki/File:DFC_1937_Savory_stir-fried_squid_with_basil_and_chili_served_over_steamed_jasmine_rice.jpg) — PattayaPatrol, CC BY-SA 4.0
+- dish-Garlic Bruschetta: [Bruschetta at The Bar at MacArthur Place - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Bruschetta_at_The_Bar_at_MacArthur_Place_-_Sarah_Stierch.jpg) — Missvain, CC BY 4.0
+- dish-Stuffed Mushrooms: [Stuffed mushrooms, 2015-06-25.jpg](https://commons.wikimedia.org/wiki/File:Stuffed_mushrooms,_2015-06-25.jpg) — Crisco 1492, CC BY-SA 4.0
+- dish-Vegetable Spring Rolls: [DFC 5092 Crispy golden spring rolls served hot with a tangy dipping sauce and fresh lettuce.jpg](https://commons.wikimedia.org/wiki/File:DFC_5092_Crispy_golden_spring_rolls_served_hot_with_a_tangy_dipping_sauce_and_fresh_lettuce.jpg) — PattayaPatrol, CC BY-SA 4.0
+- dish-Buffalo Wings: [Homemade buffalo wings.jpg](https://commons.wikimedia.org/wiki/File:Homemade_buffalo_wings.jpg) — stef yau, CC BY 2.0
+- dish-Hummus and Warm Pita: [Hummus with Olive Oil.jpg](https://commons.wikimedia.org/wiki/File:Hummus_with_Olive_Oil.jpg) — TechnoKittyCat, CC BY 4.0
+- dish-Roasted Tomato Soup: [Tomato soup.jpg](https://commons.wikimedia.org/wiki/File:Tomato_soup.jpg) — unknown, CC BY-SA 2.0
+- dish-French Onion Soup: [Mmm...onion soup (5344349906).jpg](https://commons.wikimedia.org/wiki/File:Mmm...onion_soup_(5344349906).jpg) — jeffreyw, CC BY 2.0
+- dish-Miso Soup: [Pholiota microspora miso soup 001.jpg](https://commons.wikimedia.org/wiki/File:Pholiota_microspora_miso_soup_001.jpg) — Ocdp, CC0
+- dish-Minestrone: [Minestrone soup.jpg](https://commons.wikimedia.org/wiki/File:Minestrone_soup.jpg) — Katrin Morenz from Aachen, Deutschland, CC BY-SA 2.0
+- dish-Sweet Corn Soup: [Set D - Tomato Soup Macaroni with Scrambled Egg, Toasted Bun, Buttered Sweet Corn - HOKO 2024-12-21.jpg](https://commons.wikimedia.org/wiki/File:Set_D_-_Tomato_Soup_Macaroni_with_Scrambled_Egg,_Toasted_Bun,_Buttered_Sweet_Corn_-_HOKO_2024-12-21.jpg) — Andy Li, CC0
+- dish-Pumpkin and Ginger Soup: [Autumn Soup (Unsplash) cropped.jpg](https://commons.wikimedia.org/wiki/File:Autumn_Soup_(Unsplash)_cropped.jpg) — Cala cala_maffia, CC0
+- dish-Classic Caesar Salad: [Caesar Salad - Purezza 2023-11-22.jpg](https://commons.wikimedia.org/wiki/File:Caesar_Salad_-_Purezza_2023-11-22.jpg) — Andy Li, CC0
+- dish-Greek Salad: [Greek Salad Choriatiki.jpg](https://commons.wikimedia.org/wiki/File:Greek_Salad_Choriatiki.jpg) — https://www.flickr.com/photos/zone41/, CC BY 2.0
+- dish-Quinoa and Avocado Bowl: [Falafel Super Bowl Salad - Leon 2025-10-27.jpg](https://commons.wikimedia.org/wiki/File:Falafel_Super_Bowl_Salad_-_Leon_2025-10-27.jpg) — Andy Li, CC0
+- dish-Caprese Salad: [Insalata Caprese (from Poznan).JPG](https://commons.wikimedia.org/wiki/File:Insalata_Caprese_(from_Poznan).JPG) — MOs810, CC BY-SA 3.0
+- dish-Beetroot and Goat Cheese: [Beetroot, spinach, rocket, goat cheese and pumpkin seeds salad.jpg](https://commons.wikimedia.org/wiki/File:Beetroot,_spinach,_rocket,_goat_cheese_and_pumpkin_seeds_salad.jpg) — Chris Olszewski, CC BY-SA 4.0
+- dish-Thai Papaya Salad: [Som Tam green papaya salad, Bangkok, Thailand.jpg](https://commons.wikimedia.org/wiki/File:Som_Tam_green_papaya_salad,_Bangkok,_Thailand.jpg) — Vyacheslav Argenberg, CC BY 4.0
+- dish-Margherita: [Margherita Originale.JPG](https://commons.wikimedia.org/wiki/File:Margherita_Originale.JPG) — Mario56, CC BY-SA 3.0
+- dish-Pepperoni: [Vegetarian Pizza.jpg](https://commons.wikimedia.org/wiki/File:Vegetarian_Pizza.jpg) — Petar Milošević, CC BY-SA 4.0
+- dish-Four Cheese: [Pizza quattro formaggi at restaurant, Chalk Farm Road, London.jpg](https://commons.wikimedia.org/wiki/File:Pizza_quattro_formaggi_at_restaurant,_Chalk_Farm_Road,_London.jpg) — Ewan Munro from London, UK, CC BY-SA 2.0
+- dish-Garden Veggie: [Eq it-na pizza-margherita sep2005 sml.jpg](https://commons.wikimedia.org/wiki/File:Eq_it-na_pizza-margherita_sep2005_sml.jpg) — Valerio Capello at English Wikipedia, CC BY-SA 3.0
+- dish-Funghi e Tartufo: [Pizza Funghi mit Pizzahalter.JPG](https://commons.wikimedia.org/wiki/File:Pizza_Funghi_mit_Pizzahalter.JPG) — 4028mdk09, CC BY-SA 3.0
+- dish-Calzone: [Wikimania 2016 Deryck day 0 - 07 calzone.jpg](https://commons.wikimedia.org/wiki/File:Wikimania_2016_Deryck_day_0_-_07_calzone.jpg) — Deryck Chan, CC BY-SA 4.0
+- dish-Spaghetti Carbonara: [Espaguetis carbonara.jpg](https://commons.wikimedia.org/wiki/File:Espaguetis_carbonara.jpg) — Javier Somoza, CC BY-SA 4.0
+- dish-Penne Arrabbiata: [Penne Arrabbiata.jpg](https://commons.wikimedia.org/wiki/File:Penne_Arrabbiata.jpg) — Petar Milošević, CC BY-SA 4.0
+- dish-Fettuccine Alfredo: [Fiamma - Fettuccine with Alfredo Sauce.jpg](https://commons.wikimedia.org/wiki/File:Fiamma_-_Fettuccine_with_Alfredo_Sauce.jpg) — Calgary Reviews, CC BY 2.0
+- dish-Lasagne al Forno: [Meaty Lasagna 8of8 (8736299782).jpg](https://commons.wikimedia.org/wiki/File:Meaty_Lasagna_8of8_(8736299782).jpg) — Breville USA, CC BY 2.0
+- dish-Pesto Linguine: [Linguine al Pesto - Dell'Anima (Beynost).jpg](https://commons.wikimedia.org/wiki/File:Linguine_al_Pesto_-_Dell%27Anima_(Beynost).jpg) — Benoît Prieur, CC0
+- dish-Mushroom Risotto: [Mushroom Risotto (4789415965).jpg](https://commons.wikimedia.org/wiki/File:Mushroom_Risotto_(4789415965).jpg) — Katrin Gilger, CC BY-SA 2.0
+- dish-Classic Cheeseburger: [Cheeseburger.jpg](https://commons.wikimedia.org/wiki/File:Cheeseburger.jpg) — Renee Comet (photographer), Public domain
+- dish-Crispy Chicken Burger: [Fried chicken burger .jpg](https://commons.wikimedia.org/wiki/File:Fried_chicken_burger_.jpg) — Kurt Kaiser, CC0
+- dish-Veggie Bean Burger: [Fancy Veggie Burger and Fries - Joe's Burger House 2024-07-07.jpg](https://commons.wikimedia.org/wiki/File:Fancy_Veggie_Burger_and_Fries_-_Joe%27s_Burger_House_2024-07-07.jpg) — Andy Li, CC0
+- dish-Club Sandwich: [Club-sandwich.jpg](https://commons.wikimedia.org/wiki/File:Club-sandwich.jpg) — Memm, CC BY 3.0
+- dish-Grilled Cheese: [Grilled cheese sandwich with roasted tomato soup.jpg](https://commons.wikimedia.org/wiki/File:Grilled_cheese_sandwich_with_roasted_tomato_soup.jpg) — jeffreyw, CC BY 2.0
+- dish-Pulled Pork Roll: [Pulled pork sandwich - "Naked".jpg](https://commons.wikimedia.org/wiki/File:Pulled_pork_sandwich_-_%22Naked%22.jpg) — Infrogmation of New Orleans, CC BY-SA 4.0
+- dish-Grilled Ribeye: [Ribeyes.jpeg](https://commons.wikimedia.org/wiki/File:Ribeyes.jpeg) — Jon Sullivan, Public domain
+- dish-Herb Roast Chicken: [Roasted chicken leg piece-MB20.jpg](https://commons.wikimedia.org/wiki/File:Roasted_chicken_leg_piece-MB20.jpg) — Rajeeb Dutta, CC BY-SA 4.0
+- dish-Grilled Salmon: [Grilled salmon and chips.jpg](https://commons.wikimedia.org/wiki/File:Grilled_salmon_and_chips.jpg) — Maksym Kozlenko, CC BY-SA 4.0
+- dish-Lamb Chops: [Lamb chops pilaf.jpg](https://commons.wikimedia.org/wiki/File:Lamb_chops_pilaf.jpg) — Fumikas Sagisavas, CC0
+- dish-Fish and Chips: [Fish and chips plate with peas.jpg](https://commons.wikimedia.org/wiki/File:Fish_and_chips_plate_with_peas.jpg) — Grendelkhan, CC BY-SA 4.0
+- dish-Grilled Portobello Steak: [2014 11 Portobello rocket feta toasted baguette.jpg](https://commons.wikimedia.org/wiki/File:2014_11_Portobello_rocket_feta_toasted_baguette.jpg) — Takeaway, CC BY-SA 4.0
+- dish-Butter Chicken: [Chicken makhani.jpg](https://commons.wikimedia.org/wiki/File:Chicken_makhani.jpg) — stu_spivack, CC BY-SA 2.0
+- dish-Paneer Tikka Masala: [Paneer Tikka Masala (2026) 01.jpg](https://commons.wikimedia.org/wiki/File:Paneer_Tikka_Masala_(2026)_01.jpg) — Gpkp, CC BY-SA 4.0
+- dish-Dal Tadka: [Dal Tadka-Delhi.jpg](https://commons.wikimedia.org/wiki/File:Dal_Tadka-Delhi.jpg) — AugustineKajur, CC BY-SA 4.0
+- dish-Vegetable Biryani: [Vegetable Biryani IMG 001.jpg](https://commons.wikimedia.org/wiki/File:Vegetable_Biryani_IMG_001.jpg) — Phadke09, CC BY-SA 4.0
+- dish-Thai Green Curry: [Thai green chicken curry and roti.jpg](https://commons.wikimedia.org/wiki/File:Thai_green_chicken_curry_and_roti.jpg) — Takeaway, CC BY-SA 3.0
+- dish-Chicken Biryani: [A home made plate of mutton biryani served with chicken kassa cooked in the bengali style.jpg](https://commons.wikimedia.org/wiki/File:A_home_made_plate_of_mutton_biryani_served_with_chicken_kassa_cooked_in_the_bengali_style.jpg) — Subhrajyoti07, CC BY-SA 4.0
+- dish-Pad Thai: [Thai-Pad-Thai 2023-06-04.jpg](https://commons.wikimedia.org/wiki/File:Thai-Pad-Thai_2023-06-04.jpg) — Andy Li, CC0
+- dish-Veg Hakka Noodles: [Chinese Dishes - Dejavu - Meghalaya - DSC 005.jpg](https://commons.wikimedia.org/wiki/File:Chinese_Dishes_-_Dejavu_-_Meghalaya_-_DSC_005.jpg) — Gitika Gayan, CC BY-SA 4.0
+- dish-Chicken Teriyaki Bowl: [Teriyaki chicken and beef Yakiniku with eggCNE.jpg](https://commons.wikimedia.org/wiki/File:Teriyaki_chicken_and_beef_Yakiniku_with_eggCNE.jpg) — CNEcija12345, CC BY-SA 4.0
+- dish-Steamed Dumplings: [Steamed dumplings with chili CNE.jpg](https://commons.wikimedia.org/wiki/File:Steamed_dumplings_with_chili_CNE.jpg) — CNEcija12345, CC BY-SA 4.0
+- dish-Vegetable Sushi Platter: [Sushi platter with omelette, cooked salmon, kani and cucumber sushi.jpg](https://commons.wikimedia.org/wiki/File:Sushi_platter_with_omelette,_cooked_salmon,_kani_and_cucumber_sushi.jpg) — Priscila Guimarães, CC BY-SA 2.0
+- dish-Korean Fried Rice: [Kimchi-bokkeum-bap (Kimchi fried rice) - Kogi 2023-09-11.jpg](https://commons.wikimedia.org/wiki/File:Kimchi-bokkeum-bap_(Kimchi_fried_rice)_-_Kogi_2023-09-11.jpg) — Andy Li, CC0
+- dish-Tiramisu: [Dolce Tiramisù monoporzione.jpg](https://commons.wikimedia.org/wiki/File:Dolce_Tiramis%C3%B9_monoporzione.jpg) — Anna.Massini, CC BY 4.0
+- dish-Chocolate Lava Cake: [Chocolate lava cake.jpg](https://commons.wikimedia.org/wiki/File:Chocolate_lava_cake.jpg) — sanctumsolitude, CC BY 2.0
+- dish-New York Cheesecake: [Soufflé-style cheesecake 001.jpg](https://commons.wikimedia.org/wiki/File:Souffl%C3%A9-style_cheesecake_001.jpg) — Ocdp, CC0
+- dish-Crème Brûlée: [Crème brûlée w. whipped cream.jpg](https://commons.wikimedia.org/wiki/File:Cr%C3%A8me_br%C3%BBl%C3%A9e_w._whipped_cream.jpg) — Lindsey40186, CC BY-SA 4.0
+- dish-Apple Crumble: [British apple crumble 05.jpg](https://commons.wikimedia.org/wiki/File:British_apple_crumble_05.jpg) — Jonathan Harker, CC BY 4.0
+- dish-Gelato Trio: [Ice cream with garnish.jpg](https://commons.wikimedia.org/wiki/File:Ice_cream_with_garnish.jpg) — Izak.50, CC BY 4.0
+- dish-Classic Mojito: [Strawberry Mojito - CrystalMixer.jpg](https://commons.wikimedia.org/wiki/File:Strawberry_Mojito_-_CrystalMixer.jpg) — CrystalMixer - CrystalMixer.com, CC BY 4.0
+- dish-Old Fashioned: [Claris Hotel, Barcelona, Smoky Old-Fashioned with Popcorn.jpg](https://commons.wikimedia.org/wiki/File:Claris_Hotel,_Barcelona,_Smoky_Old-Fashioned_with_Popcorn.jpg) — Capvideo, CC BY 4.0
+- dish-Margarita: [El Guamache Bay, Margarita island.jpg](https://commons.wikimedia.org/wiki/File:El_Guamache_Bay,_Margarita_island.jpg) — Wilfredor, CC0
+- dish-Cosmopolitan: [Cosmopolitan cocktail drink.jpg](https://commons.wikimedia.org/wiki/File:Cosmopolitan_cocktail_drink.jpg) — Jon Sullivan, Public domain
+- dish-Espresso Martini: [Espresso Martini on a bar.jpg](https://commons.wikimedia.org/wiki/File:Espresso_Martini_on_a_bar.jpg) — AlphaLemur, CC BY-SA 4.0
+- dish-Aperol Spritz: [Aperol Spritz - Santa Ynez Kitchen - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Aperol_Spritz_-_Santa_Ynez_Kitchen_-_Sarah_Stierch.jpg) — Missvain, CC BY 4.0
+- dish-Virgin Mojito: [Mojito, Mazatlán, 30 de noviembre de 2022.jpg](https://commons.wikimedia.org/wiki/File:Mojito,_Mazatl%C3%A1n,_30_de_noviembre_de_2022.jpg) — El Nuevo Doge, CC0
+- dish-Passion Fruit Iced Tea: [Ice Tea (2571858493).jpg](https://commons.wikimedia.org/wiki/File:Ice_Tea_(2571858493).jpg) — MzScarlett / A.K.A. Michelle from Missouri, CC BY 2.0
+- dish-Fresh Lime Soda: [Koh Mak, Thailand, Lime juice with ice, Lemonade, Limeade.jpg](https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Lime_juice_with_ice,_Lemonade,_Limeade.jpg) — Vyacheslav Argenberg, CC BY 4.0
+- dish-Strawberry Lemonade: [Self-made gin pink grapefruit long drink.jpg](https://commons.wikimedia.org/wiki/File:Self-made_gin_pink_grapefruit_long_drink.jpg) — JIP, CC BY-SA 3.0
+- dish-Blue Lagoon: [McDonald's Locomoco set (Fried potato & McFloat Blue Hawaii).jpg](https://commons.wikimedia.org/wiki/File:McDonald%27s_Locomoco_set_(Fried_potato_%26_McFloat_Blue_Hawaii).jpg) — Tokumeigakarinoaoshima, CC BY-SA 4.0
+- dish-Watermelon Cooler: [Potato and exotic veggeis Wedges with watermelon Juice.jpg](https://commons.wikimedia.org/wiki/File:Potato_and_exotic_veggeis_Wedges_with_watermelon_Juice.jpg) — Sauravdipu, CC BY-SA 4.0
+- dish-Cappuccino: [Cappuccino and cookie.jpg](https://commons.wikimedia.org/wiki/File:Cappuccino_and_cookie.jpg) — TricksterWildcat, CC BY-SA 4.0
+- dish-Flat White: [Flat white coffee at Sainsbury's, Chingford, London, England 4.jpg](https://commons.wikimedia.org/wiki/File:Flat_white_coffee_at_Sainsbury%27s,_Chingford,_London,_England_4.jpg) — Acabashi, CC BY-SA 4.0
+- dish-Iced Latte: [Iced coffee (Eiskaffee).jpg](https://commons.wikimedia.org/wiki/File:Iced_coffee_(Eiskaffee).jpg) — Anke Klitzing, CC BY-SA 4.0
+- dish-Masala Chai: [Masala Chai.JPG](https://commons.wikimedia.org/wiki/File:Masala_Chai.JPG) — Miansari66, Public domain
+- dish-Matcha Latte: [Matcha tea latte with rosetta latte art.jpg](https://commons.wikimedia.org/wiki/File:Matcha_tea_latte_with_rosetta_latte_art.jpg) — Irvan Ary Maulana, CC BY-SA 4.0
+- dish-Hot Chocolate: [Kakao mit Sahne 281104.jpg](https://commons.wikimedia.org/wiki/File:Kakao_mit_Sahne_281104.jpg) — Herrick with Olympus C-220 Zoom, CC BY-SA 2.0 de
+- dish-House Red Wine: [Wine being poured into a glass.jpg](https://commons.wikimedia.org/wiki/File:Wine_being_poured_into_a_glass.jpg) — Fabio Ingrosso, CC BY 2.0
+- dish-House White Wine: [Celebrating with a glass of white wine in a lively bar setting.jpg](https://commons.wikimedia.org/wiki/File:Celebrating_with_a_glass_of_white_wine_in_a_lively_bar_setting.jpg) — Shixart1985, CC BY 2.0
+- dish-Prosecco: [VJB Vineyards & Cellars - June 2024 - Sarah Stierch 07.jpg](https://commons.wikimedia.org/wiki/File:VJB_Vineyards_%26_Cellars_-_June_2024_-_Sarah_Stierch_07.jpg) — Missvain, CC BY 4.0
+- dish-Craft Lager: [Saigon lager beer red label.jpg](https://commons.wikimedia.org/wiki/File:Saigon_lager_beer_red_label.jpg) — Joe Hall from Oakland, USA, CC BY 2.0
+- dish-Wheat Beer: [Wheat beers König Ludwig Weissbier + Paulaner Weißbier at Strandbad in Mannheim.jpg](https://commons.wikimedia.org/wiki/File:Wheat_beers_K%C3%B6nig_Ludwig_Weissbier_%2B_Paulaner_Wei%C3%9Fbier_at_Strandbad_in_Mannheim.jpg) — Nemracc, CC BY-SA 4.0
+- dish-Sangria Jug: [Sangria - Jarras de barro.JPG](https://commons.wikimedia.org/wiki/File:Sangria_-_Jarras_de_barro.JPG) — Tamorlan, CC BY-SA 3.0
+- ev-0: [EPBB Live at Iridium NYC.jpg](https://commons.wikimedia.org/wiki/File:EPBB_Live_at_Iridium_NYC.jpg) — HughDoneIt, CC BY-SA 4.0
+- ev-1: [Yerevan Wine Days Tasting Package.jpg](https://commons.wikimedia.org/wiki/File:Yerevan_Wine_Days_Tasting_Package.jpg) — Bogossi Production, CC BY-SA 4.0
+- ev-2: [Cooking class (5104746791).jpg](https://commons.wikimedia.org/wiki/File:Cooking_class_(5104746791).jpg) — krebsmaus07, CC BY 2.0
+- ev-3: [Brunch buffet tables at Gold Coast Prime Rib.jpg](https://commons.wikimedia.org/wiki/File:Brunch_buffet_tables_at_Gold_Coast_Prime_Rib.jpg) — Peachyeung316, CC BY-SA 4.0
+- ev-4: [Sofia Talvik at Acoustic Music San Diego (AMSD) Live Music - 3 March 2010.jpg](https://commons.wikimedia.org/wiki/File:Sofia_Talvik_at_Acoustic_Music_San_Diego_(AMSD)_Live_Music_-_3_March_2010.jpg) — SD Dirk from San Diego, USA, CC BY 2.0
+- ev-5: [Day 1 Cy365 Celebrate (60828870).jpeg](https://commons.wikimedia.org/wiki/File:Day_1_Cy365_Celebrate_(60828870).jpeg) — Makia Minich, CC BY-SA 3.0
+- ev-6: [A man making cocktail.jpg](https://commons.wikimedia.org/wiki/File:A_man_making_cocktail.jpg) — KelvinJM, CC BY-SA 4.0
+- ev-7: [KB Street Food Festival 2024 03.jpg](https://commons.wikimedia.org/wiki/File:KB_Street_Food_Festival_2024_03.jpg) — Pangalau, CC BY-SA 4.0
+- ev-8: [ASIANVOTERS.jpg](https://commons.wikimedia.org/wiki/File:ASIANVOTERS.jpg) — Nancy Wong, CC BY-SA 4.0
+- ev-9: [Story Bridge Hotel 06.JPG](https://commons.wikimedia.org/wiki/File:Story_Bridge_Hotel_06.JPG) — Kgbo, CC BY-SA 4.0
+- ev-10: [Frances (Appleton) Longfellow to Thomas Gold Appleton, 23 February 1857 (4bc74f35-41c4-440e-b463-5147314ac889).jpg](https://commons.wikimedia.org/wiki/File:Frances_(Appleton)_Longfellow_to_Thomas_Gold_Appleton,_23_February_1857_(4bc74f35-41c4-440e-b463-5147314ac889).jpg) — Fanny (Appleton) Longfellow (1817-1861), Public domain
+- ev-11: [Amir Asgharnejad Parkteatret (221552).jpg](https://commons.wikimedia.org/wiki/File:Amir_Asgharnejad_Parkteatret_(221552).jpg) — Tore Sætre, CC BY-SA 4.0
+- blog-0: [Cambridge Farmers' Market- west elevation.jpg](https://commons.wikimedia.org/wiki/File:Cambridge_Farmers%27_Market-_west_elevation.jpg) — MissAnnabel-lee, CC BY-SA 3.0
+- blog-1: [Eighth Army Chef of the Year competition (9182185).jpg](https://commons.wikimedia.org/wiki/File:Eighth_Army_Chef_of_the_Year_competition_(9182185).jpg) — U.S. Army photo by Cpl. Hyung Ju Lee, Public domain
+- blog-2: [Dülmen, Privatrösterei Schröer -- 2018 -- 2.jpg](https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Privatr%C3%B6sterei_Schr%C3%B6er_--_2018_--_2.jpg) — Dietmar Rabich, CC BY-SA 4.0
+- blog-3: [How to cut the fresh egg pasta with a knife The art of pasta making in Italy.JPG](https://commons.wikimedia.org/wiki/File:How_to_cut_the_fresh_egg_pasta_with_a_knife_The_art_of_pasta_making_in_Italy.JPG) — Isacookinpadua, CC BY-SA 3.0
+- blog-4: [Elegant cocktail garnished with citrus twist presented in a stylish glass on a wooden bar.jpg](https://commons.wikimedia.org/wiki/File:Elegant_cocktail_garnished_with_citrus_twist_presented_in_a_stylish_glass_on_a_wooden_bar.jpg) — Shixart1985, CC BY 2.0
+- blog-5: [Pastry Class NGM-v31-p352.jpg](https://commons.wikimedia.org/wiki/File:Pastry_Class_NGM-v31-p352.jpg) — United States Navy Department., Public domain
+- blog-6: [Fruits and Vegetables (20110506-RD-LSC-0221).jpg](https://commons.wikimedia.org/wiki/File:Fruits_and_Vegetables_(20110506-RD-LSC-0221).jpg) — USDAgov, Public domain
+- blog-7: [Sourdough Bread Loaf.jpg](https://commons.wikimedia.org/wiki/File:Sourdough_Bread_Loaf.jpg) — Agelaia, CC BY 4.0
+- blog-8: [Seven-course tasting menu at Monstera Bistro, Ljubljana (48702049837).jpg](https://commons.wikimedia.org/wiki/File:Seven-course_tasting_menu_at_Monstera_Bistro,_Ljubljana_(48702049837).jpg) — Bex Walton from London, England, CC BY 2.0
+- ent-Chef's table: [Anago - close-up - Shira Nui AUD5.50 each (4759859229).jpg](https://commons.wikimedia.org/wiki/File:Anago_-_close-up_-_Shira_Nui_AUD5.50_each_(4759859229).jpg) — Alpha from Melbourne, Australia, CC BY-SA 2.0
+- ent-Sunday family feast: [Dinner table arrangement with food of a middle class Bangladeshi family 01.jpg](https://commons.wikimedia.org/wiki/File:Dinner_table_arrangement_with_food_of_a_middle_class_Bangladeshi_family_01.jpg) — Afifa Afrin, CC BY-SA 4.0
+- ent-Private dining: [The Kernwood Restaurant -- main dining room, cocktail lounge, large banquet hall, banquet room, private dining room (89675).jpg](https://commons.wikimedia.org/wiki/File:The_Kernwood_Restaurant_--_main_dining_room,_cocktail_lounge,_large_banquet_hall,_banquet_room,_private_dining_room_(89675).jpg) — Tichnor Brothers, Publisher, Public domain
+- ent-Live music nights: [Live band performing at Martin's corner, Betal Patin, Goa.jpg](https://commons.wikimedia.org/wiki/File:Live_band_performing_at_Martin%27s_corner,_Betal_Patin,_Goa.jpg) — User:psubhashish, CC BY-SA 3.0
+- gal-0: [DZ6 0547 A cozy stylish restaurant interior with patterned tile floors warm ambient lighting and large glass windows revealing a leafy courtyard - diners enjoy a relaxed meal in an intimate artfully designed space.jpg](https://commons.wikimedia.org/wiki/File:DZ6_0547_A_cozy_stylish_restaurant_interior_with_patterned_tile_floors_warm_ambient_lighting_and_large_glass_windows_revealing_a_leafy_courtyard_-_diners_enjoy_a_relaxed_meal_in_an_intimate_artfully_designed_space.jpg) — PattayaPatrol, CC BY-SA 4.0
+- gal-1: [Restaurant room of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg](https://commons.wikimedia.org/wiki/File:Restaurant_room_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg) — Basile Morin, CC BY-SA 4.0
+- gal-2: [Mobtown Ballroom bar area.jpg](https://commons.wikimedia.org/wiki/File:Mobtown_Ballroom_bar_area.jpg) — Sdkb, CC BY-SA 4.0
+- gal-3: [Chef cooking Mysore masala dosa in Mysuru, July 2013.jpg](https://commons.wikimedia.org/wiki/File:Chef_cooking_Mysore_masala_dosa_in_Mysuru,_July_2013.jpg) — Sunnya343, CC BY-SA 4.0
+- gal-4: [Restaurant terrace in Ruoholahti.jpg](https://commons.wikimedia.org/wiki/File:Restaurant_terrace_in_Ruoholahti.jpg) — JIP, CC BY-SA 3.0
+- gal-5: [Avenca da Praia by Malas a Montes - patio and outdoor dining area.jpg](https://commons.wikimedia.org/wiki/File:Avenca_da_Praia_by_Malas_a_Montes_-_patio_and_outdoor_dining_area.jpg) — José Mónica, CC BY 4.0
+- gal-6: [Obama china service - luncheon plate for Shinzo Abe (17322929431).jpg](https://commons.wikimedia.org/wiki/File:Obama_china_service_-_luncheon_plate_for_Shinzo_Abe_(17322929431).jpg) — Tim Evanson from Cleveland Heights, Ohio, USA, Public domain
+- gal-7: [Milestii Mici wine cellar corridor bottle storage 2024.jpg](https://commons.wikimedia.org/wiki/File:Milestii_Mici_wine_cellar_corridor_bottle_storage_2024.jpg) — Furkan Akkurt, CC BY-SA 4.0
+- gal-8: [French Coffee Shop, Dieppe 2026-05-11.jpg](https://commons.wikimedia.org/wiki/File:French_Coffee_Shop,_Dieppe_2026-05-11.jpg) — Andy Li, CC0
+- gal-9: [Bakery products on the counter of Jacob's Bakery + Cafe 2024-04-15.jpg](https://commons.wikimedia.org/wiki/File:Bakery_products_on_the_counter_of_Jacob%27s_Bakery_%2B_Cafe_2024-04-15.jpg) — Andy Li, CC0
+- gal-10: [Berlin- Dinner table at dance room in the Mitte - 2664.jpg](https://commons.wikimedia.org/wiki/File:Berlin-_Dinner_table_at_dance_room_in_the_Mitte_-_2664.jpg) — Jorge Royan, CC BY-SA 3.0
+- gal-11: [Open Kitchen Restaurant - November 2023 - Sarah Stierch 02.jpg](https://commons.wikimedia.org/wiki/File:Open_Kitchen_Restaurant_-_November_2023_-_Sarah_Stierch_02.jpg) — Missvain, CC BY 4.0

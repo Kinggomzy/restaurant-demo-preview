@@ -1,0 +1,14 @@
+4:"$Sreact.fragment"
+5:"/restaurant-demo-preview/_next/static/chunks/1xhsfdhx1c1qq.js"
+6:"ViewportBoundary"
+7:I[67881,["$5"],"$6"]
+9:"MetadataBoundary"
+a:I[67881,["$5"],"$9"]
+b:"$Sreact.suspense"
+3:[["children",{"s":"__PAGE__"}]]
+2:[["children",{"s":"preview","c":"$Q3"}]]
+1:[["children",{"s":"admin","c":"$Q2"}]]
+0:{"q":"","i":false,"S":false,"r":"$undefined","b":"1Mw8nFnd1mCFfBI6iVve6","t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L7","UlG5zUbi3q2JzPzlUOWy8v",{"children":"$L8"}],["$","$La","UlG5zUbi3q2JzPzlUOWy8m",{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":"$Lc"}]}],null]}]]}],"p":false,"v":null}}}
+8:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:I[46004,["$5"],"IconMark"]
+c:[["$","title","0",{"children":"Admin portal"}],["$","link","1",{"rel":"manifest","href":"/admin-manifest","crossOrigin":"$undefined"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%277%27 fill=%27%23c0561d%27/%3E%3Cpath d=%27M9 22V10h6a4 4 0 010 8h-3%27 fill=%27none%27 stroke=%27%23fff%27 stroke-width=%273%27 stroke-linecap=%27round%27/%3E%3C/svg%3E"}],["$","$Ld","4",{}]]

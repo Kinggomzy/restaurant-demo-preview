@@ -1,0 +1,1 @@
+{"mfaPolicy":"optional","tableChangePassword":false,"smtp":null,"emailConfigured":false,"signInRules":{"lockoutAttempts":5,"lockoutMinutes":15,"sessionHours":24,"idleMinutes":90},"passwordRules":{"minLength":12,"requireMixedCase":false,"requireNumber":false,"requireSymbol":false}}

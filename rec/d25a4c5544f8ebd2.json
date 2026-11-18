@@ -1,0 +1,1 @@
+{"taxRates":[{"id":"7ca1bcfa-cbc8-4a40-ac6c-17f3c3d11332","name":"GST 12%","bp":1200,"active":false},{"id":"320c4edc-d774-4ccc-b3b6-4a6d450a0390","name":"GST 18%","bp":1800,"active":true},{"id":"cd48e375-26f9-4709-81e3-0cd0f1dcbd44","name":"GST 5%","bp":500,"active":true},{"id":"1cb231bc-2ed2-4903-adc8-0e7ba87f71a4","name":"Zero rated","bp":0,"active":true}]}

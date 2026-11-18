@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head><script src="static-shim.js"></script><meta name="robots" content="noindex">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Feedback · The Corner Table</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Feedback · The Corner Table">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..700;1,400..600&family=Montserrat:wght@300..700&display=swap">
+<link rel="stylesheet" href="noir.css">
+<meta name="noir-seo" content="1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-nxe4FL+vFDZFlx6wVbcDTvVGWlKsueQNbPezA56p6cA=' https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: blob: https:; connect-src 'self'; object-src 'none'; frame-src https://www.google.com; base-uri 'self'; form-action 'self'">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#0c0b0a">
+<link rel="canonical" href="https://example.test/feedback.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="The Corner Table">
+<meta property="og:title" content="Feedback · The Corner Table">
+<meta property="og:description" content="Feedback · The Corner Table">
+<meta property="og:url" content="https://example.test/feedback.html">
+<meta property="og:image" content="https://example.test/img/hero-table.webp">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preload" as="fetch" href="data/site.json" crossorigin="anonymous">
+</head>
+<body class="flat">
+<main id="main">
+<section class="opener"><div class="wrap"><nav class="crumbs" aria-label="Breadcrumb"><a href="./">Home</a><span aria-hidden="true">/</span><a href="reviews.html">Reviews</a><span aria-hidden="true">/</span><span>Feedback</span></nav><span class="label">Feedback</span><h1>How was <em>your visit?</em></h1><p class="sub">Your rating and comments go straight to the team. We read every one.</p></div></section>
+<section class="sec sm"><div class="wrap mid"><div class="box"><form class="form" id="fb" novalidate data-title="Thank you for your feedback" data-success="The team will read it. If you asked us to get in touch, we will reply within two working days.">
+  <div class="form-err"></div>
+  <fieldset class="rate"><legend>How was your visit?</legend><label title="1 star"><input type="radio" name="fb-r" value="1"><span class="sr">1 star</span><svg viewBox="0 0 24 24" fill="currentColor"><path d="m12 2 3 6.6 7.2.7-5.4 4.8 1.6 7.1L12 17.6 5.6 21.2l1.6-7.1L1.8 9.3 9 8.6z"/></svg></label><label title="2 stars"><input type="radio" name="fb-r" value="2"><span class="sr">2 stars</span><svg viewBox="0 0 24 24" fill="currentColor"><path d="m12 2 3 6.6 7.2.7-5.4 4.8 1.6 7.1L12 17.6 5.6 21.2l1.6-7.1L1.8 9.3 9 8.6z"/></svg></label><label title="3 stars"><input type="radio" name="fb-r" value="3"><span class="sr">3 stars</span><svg viewBox="0 0 24 24" fill="currentColor"><path d="m12 2 3 6.6 7.2.7-5.4 4.8 1.6 7.1L12 17.6 5.6 21.2l1.6-7.1L1.8 9.3 9 8.6z"/></svg></label><label title="4 stars"><input type="radio" name="fb-r" value="4"><span class="sr">4 stars</span><svg viewBox="0 0 24 24" fill="currentColor"><path d="m12 2 3 6.6 7.2.7-5.4 4.8 1.6 7.1L12 17.6 5.6 21.2l1.6-7.1L1.8 9.3 9 8.6z"/></svg></label><label title="5 stars"><input type="radio" name="fb-r" value="5"><span class="sr">5 stars</span><svg viewBox="0 0 24 24" fill="currentColor"><path d="m12 2 3 6.6 7.2.7-5.4 4.8 1.6 7.1L12 17.6 5.6 21.2l1.6-7.1L1.8 9.3 9 8.6z"/></svg></label></fieldset>
+  <div class="form-grid">
+    <div class="field"><label for="fb-n">Your name</label><input class="input" id="fb-n" autocomplete="name" required></div>
+    <div class="field"><label for="fb-e">Email</label><input class="input" id="fb-e" type="email" autocomplete="email"></div>
+    <div class="field"><label for="fb-p">Phone</label><input class="input" id="fb-p" type="tel" autocomplete="tel"><span class="hint">Optional</span></div>
+    <div class="field"><label for="fb-c">About</label><select class="select" id="fb-c"><option>Food</option><option>Drinks</option><option>Service</option><option>Atmosphere</option><option>Event</option><option>Online order</option><option>Something else</option></select></div>
+    
+    <div class="field full"><label for="fb-m">Tell us more</label><textarea class="textarea" id="fb-m" required></textarea></div>
+    <label class="check full"><input type="checkbox" id="fb-ac"> You may contact me about this feedback (needs an email or phone number).</label>
+    
+  </div>
+  <div class="acts"><button class="btn solid" type="submit">Send feedback <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button></div>
+</form></div><p class="small faint" style="margin-top:18px">We may publish your rating and comment on our Reviews page with your first name. We never publish contact details.</p></div></section>
+</main>
+<script src="noir.js" defer></script>
+<script src="cms.js" defer></script>
+<script src="pickers.js" defer></script>
+</body>
+</html>

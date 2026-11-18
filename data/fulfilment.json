@@ -1,0 +1,1 @@
+{"fulfilment":{"pickupEnabled":true,"deliveryEnabled":true,"deliveryFeeMinor":4000,"minOrderMinor":30000,"prepMinutes":25,"deliveryNote":"We deliver within 5 km.","timezone":"Asia/Kolkata","hours":{"pickup":null,"delivery":null},"closures":[],"now":{"pickup":{"ok":true},"delivery":{"ok":true}}}}
